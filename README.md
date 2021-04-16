@@ -1,4 +1,4 @@
-# Hotel-Management-Sys
+# Hotel-Management-System
 
 ## AIM:
 The project aims to convert the conventional hotel management system into a computerized system. Rather than the traditional methods that are used by the hotel for the administration, such as ledgers and bulk files, this Java project will make the hotel management system more seamless, accessible and also efficient.
